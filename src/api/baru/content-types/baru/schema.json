@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "barus",
+  "info": {
+    "singularName": "baru",
+    "pluralName": "barus",
+    "displayName": "Baru"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "active": {
+      "type": "boolean"
+    }
+  }
+}
